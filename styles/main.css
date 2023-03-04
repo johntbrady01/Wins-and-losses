@@ -1,0 +1,111 @@
+
+
+.topSpace {
+    width: 100%;
+    height:120px;
+}
+
+.middleSpace {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15%;
+    padding-left: 10%;
+    padding-bottom: 130px;
+
+
+}
+
+.leftSpace {
+    padding-top: 100px;
+
+
+}
+
+.rightSpace {
+    background-color: rgb(245, 245, 245);
+    border: 1px;
+    border-style: solid;
+    border-color:rgb(205, 205, 205) ;
+    padding-left: 100px;
+    padding-right: 100px;
+   padding-bottom:50px ;
+    padding-top: 50px;
+
+}
+
+/* Bordered form */
+
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: rgb(46, 131, 202);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+
+
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+
+  
+
+
+  /* Add padding to containers */
+  
+  
+  /* The "Forgot password" text */
+  span.psw {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+  }
+
+  .line {
+     width:100% ;
+
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+
+    .cancelbtn {
+      width: 100%;
+      background-color: rgb(218, 38, 38);
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+    
+    }
+
+    .bottomSpace {
+        width: 100%;
+        height:120px;
+        background-color: rgb(245, 245, 245) ;
+        margin-bottom: 0%;
+    }
+  
+    .margin {
+        margin: 0;
+        padding: 0;
+
+
+    }
