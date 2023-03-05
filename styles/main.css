@@ -18,7 +18,6 @@
 .leftSpace {
     padding-top: 100px;
 
-
 }
 
 .rightSpace {
@@ -28,7 +27,7 @@
     border-color:rgb(205, 205, 205) ;
     padding-left: 100px;
     padding-right: 100px;
-   padding-bottom:50px ;
+    padding-bottom:50px ;
     padding-top: 50px;
 
 }
@@ -60,7 +59,7 @@
 
   /* Add a hover effect for buttons */
   button:hover {
-    opacity: 0.8;
+   opacity: 0.8;
   }
   
 

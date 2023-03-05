@@ -1,0 +1,189 @@
+.topSpace {
+    width: 100%;
+    height:120px;
+    display: flex;
+    justify-content:space-between;
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    border-color: black;
+}
+
+.leftTop{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border-width: 0 2px 0 0;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(238, 238, 238);
+   
+}   
+
+.logo {
+    height: 80px;
+    width:100%;
+    margin-top: auto;
+    
+
+}
+
+.middleTop {
+     width:100%;
+     display: flex;
+     justify-content: center;
+     background-color: rgb(97, 170, 231);
+    
+}
+
+.mainFeed {
+    margin: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    padding-right:20px ;
+
+
+}
+
+.rightTop {
+    width: 10%;
+    border-width: 0 0 0 2px;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+.profilePic {
+    width:50px;
+    height:50px;
+    margin: auto;
+    padding-top: 30px;
+
+
+}
+
+.middleSpace {
+ display: flex;
+ justify-content:space-between;
+ height:1000px;
+}
+
+.sideBarLeft {
+    width: 30%;
+    height:100%;
+    border-width: 0 2px 0 0;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(238, 238, 238);
+}
+
+.leftLines {
+    width:100%;
+    height:60px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 2px 0;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.topBox {
+    height:100%;
+    width:337px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 2px 0 0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.topBoxRight {
+    height:100%;
+    width:337px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.homePic {
+    width:50px;
+    height:50px;
+    margin-top: auto;
+
+}
+
+.statPic {
+    width:50px;
+    height:50px;
+    margin-top: auto;
+
+}
+
+.addSign{
+    width:50px;
+    height:50px;
+    margin-top: auto;
+}
+
+
+
+.middle {
+
+    width:100%;
+
+}
+
+.searchContainer{
+    padding-top:20px ;
+    display: flex;
+    justify-content: center;
+}
+
+.searchPic {
+    width:30px;
+    height:30px;
+    padding-right: 10px;
+
+}
+
+.searchBarBar {
+    width :70%
+
+
+}
+
+.centerContainer {
+    display: flex;
+    justify-content: center;
+    padding:40px;
+    
+
+}
+
+.greyBox {
+    height: 900px;
+    width:85%;
+    background-color:rgb(238, 238, 238) ;
+
+
+
+}
+
+
+.sideBarRight {
+    width: 10%;
+    height:100%;
+    border-width: 0 0 0 2px;
+    border-style: solid;
+    border-color: black;
+ 
+}
+
+
+.bottomSpace {
+    width: 100%;
+    height:120px;
+}
